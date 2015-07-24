@@ -1,2 +1,6 @@
 Hello, World!
-JavaScript
+
+* JavaScript
+* Plone
+* Python
+* Killing history using git rebase
